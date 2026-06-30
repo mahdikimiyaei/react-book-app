@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "image": "shazdeh.jpg",
+      "year": 2000,
+      "author": "علی محمدی پور",
+      "title": "شاهزاده کوچولو",
+      "id": "4f73"
+    },
+    {
+      "image": "onehanderedyers.jpg",
+      "year": 2009,
+      "author": "دارک شپرد",
+      "title": "صد سال تنهایی",
+      "id": "fKi6sMVy788"
+    },
+    {
+      "image": "father in low.jpg",
+      "year": 1900,
+      "author": "علی امیری",
+      "title": "پدر پول دار و پدر فقیر",
+      "id": "i-YeuQ09fKM"
+    },
+    {
+      "image": "wisely_human.jpg",
+      "year": 2000,
+      "author": "علی رضایی",
+      "title": "انسان خردمند",
+      "id": "QPAETBPF_ns"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
